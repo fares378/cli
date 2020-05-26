@@ -4,7 +4,7 @@
 
    ```sh
    $ go version
-   go version go1.14
+   go version go1.15
    ```
 
 1. Clone this repository
